@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ampond Chinnaphon
 
-🎓 **Computer Engineering & AI Student @ PIM** | 🤖 **AI Engineer Intern @ United Information Highway (UIH)**  
+🎓 **Computer Engineering & AI Student @PIM** | 🤖 **AI Engineer Intern @United Information Highway (UIH)**  
 🚀 Passionate about **Data Analytics, Automated Pipelines, Machine Learning, and Full-Stack Engineering**. Proven track record of leading high-performance teams in national-level hackathons and academic exhibitions.
 
 ---
