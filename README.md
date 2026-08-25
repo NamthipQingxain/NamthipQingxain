@@ -59,10 +59,4 @@ As a technical project leader, I specialize in bridging the gap between complex 
 * **[Pediatric Knee Fracture Pipeline](https://github.com/NamthipQingxain/pediatric-knee-fracture-pipeline)**
   * Data preprocessing, annotation GUI, and synthetic bias generation pipeline for medical X-Ray analysis.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamthipQingxain&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
