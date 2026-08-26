@@ -25,10 +25,10 @@
 ## 👑 Leadership & Core Expertise
 
 As a technical project leader, I specialize in bridging the gap between complex AI/Data pipelines and real-world business execution. My core strengths include:
-* **Team Leadership & Agile Project Management:** Directing multi-disciplinary teams through intense hackathons and research developments under tight deadlines.
-* **Data Engineering & Automation:** Designing end-to-end data pipelines using Microsoft Power Platform (Power Automate, Power Apps), SharePoint, and Google Apps Script (OCR automation).
-* **AI & Medical Data Science:** Developing predictive models and preprocessing pipelines for healthcare innovations (e.g., CycleGAN for medical imaging).
-* **Data Visualization & Business Intelligence:** Transforming raw unstructured data into actionable insights and interactive dashboards via Power BI.
+* **Team Leadership & Agile Project Management** Directing multi-disciplinary teams through intense hackathons and research developments under tight deadlines.
+* **Data Engineering & Automation** Designing end-to-end data pipelines using Microsoft Power Platform (Power Automate, Power Apps), SharePoint, and Google Apps Script (OCR automation).
+* **AI & Medical Data Science** Developing predictive models and preprocessing pipelines for healthcare innovations (e.g., CycleGAN for medical imaging).
+* **Data Visualization & Business Intelligence** Transforming raw unstructured data into actionable insights and interactive dashboards via Power BI.
 
 ---
 
@@ -37,14 +37,14 @@ As a technical project leader, I specialize in bridging the gap between complex 
 * 🥇 **Top 6 Finalist & Team Leader | True CyberSafe x TrueMoney Hackathon Thailand 2025**
   * **Event Date:** December 4, 2025 (Organized by True Corporation, TrueMoney, NCSA / สกมช., and Sasin School of Management)
   * **Achievement:** Led a high-performance team to secure a **Top 6 Finalist spot out of 89 contestant teams nationwide**.
-  * **Leadership & Technical Contributions:** 
+  * **Leadership & Technical Contributions** 
     * Spearheaded project conceptualization, system architecture design, and strategic pitching under high-pressure competitive conditions.
     * Directed technical integration of secure financial-tech workflows and cybersecurity frameworks, demonstrating strong problem-solving and rapid prototyping skills.
 
 * 🔬 **Rising Innovator & Project Lead | BRIDGE-AI Summit 2026 (Digital Health Innovation Exhibition)**
-  * **Event Date:** July 20–21, 2026 (Co-organized by Faculty of Medicine, Chulalongkorn University & Weill Cornell Medicine)
-  * **Project Title:** *ระบบปัญญาประดิษฐ์เพื่อพยากรณ์การผิดรูปของกระดูกเข่าเด็กอันเนื่องมาจากอุบัติเหตุ (Pediatric Knee Fracture & Deformity Prediction AI)*
-  * **Leadership & Technical Contributions:**
+  * **Event Date** July 20–21, 2026 (Co-organized by Faculty of Medicine, Chulalongkorn University & Weill Cornell Medicine)
+  * **Project Title** *ระบบปัญญาประดิษฐ์เพื่อพยากรณ์การผิดรูปของกระดูกเข่าเด็กอันเนื่องมาจากอุบัติเหตุ (Pediatric Knee Fracture & Deformity Prediction AI)*
+  * **Leadership & Technical Contributions**
     * Served as a key project lead representing Panyapiwat Institute of Management (PIM) and Thammasat University in the **Medical AI Track**.
     * Supervised data pipeline development, including custom annotation tools, data augmentation, and synthetic bias generation pipelines for deep learning models.
 
